@@ -1,18 +1,19 @@
 using System;
+
 using Domain;
 
 namespace Persistence;
 
 public class DbInitializer
 {
-  public static async Task SeedData(AppDbContext context)
-  {
-    if (context.Activities.Any())
+    public static async Task SeedData(AppDbContext context)
     {
-      return;
-    }
+        if (context.Activities.Any())
+        {
+            return;
+        }
 
-    List<Activity> activities = new List<Activity>
+        List<Activity> activities = new List<Activity>
     {
       new() {
                 Title = "Past Activity 1",
@@ -121,7 +122,7 @@ public class DbInitializer
                 Longitude = -0.781404
             }
     };
-    context.Activities.AddRange(activities);
-    await context.SaveChangesAsync();
-  }
+        context.Activities.AddRange(activities);
+        await context.SaveChangesAsync();
+    }
 }
