@@ -1,0 +1,17 @@
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Application.deps.json
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Application.dll
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Application.pdb
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Domain.dll
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Persistence.dll
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Domain.pdb
+/home/sloec/Dokumente/code/reactivities/Application/bin/Debug/net10.0/Persistence.pdb
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.csproj.AssemblyReference.cache
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.AssemblyInfoInputs.cache
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.AssemblyInfo.cs
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.csproj.CoreCompileInputs.cache
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Applicat.44B5EDA2.Up2Date
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.dll
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/refint/Application.dll
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/Application.pdb
+/home/sloec/Dokumente/code/reactivities/Application/obj/Debug/net10.0/ref/Application.dll
