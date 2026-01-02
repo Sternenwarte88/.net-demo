@@ -486,3 +486,5 @@ API/reactivities.db
 API/appsettings.json
 CourseAssets
 .vscode
+API/reactivities.db-shm
+.gitignore
